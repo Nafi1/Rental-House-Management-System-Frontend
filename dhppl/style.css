@@ -1,0 +1,42 @@
+* {margin:0;padding:0}
+#mar {
+width: 65%; 
+direction: right;
+background-color: transparent;
+position: absolute;
+top: 115px;
+left: 15em;
+font-family: Algerian;
+font-size: 150%;
+color: #343600;
+}
+footer{
+	background-color: #222222;
+	color: yellow;
+
+}
+#f2{
+	margin: 0;
+    margin-top: 10%;
+   
+}
+.f3{
+	float: right;
+}
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+  #ab1{
+  	float: left;
+  }
+  #ab2{
+  	float: right;
+  }
+  #abt{
+    background-color: #EBEDEF;
+  }
+  #trm{
+    background-color: #EAF2F8;
+  }
